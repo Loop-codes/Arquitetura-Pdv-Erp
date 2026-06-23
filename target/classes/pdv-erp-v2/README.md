@@ -1,0 +1,1 @@
+PDV ERP V2 - Esqueleto com backend Spring e frontend React organizado.

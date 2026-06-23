@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2007ccfa-47de-4d1e-9e82-3ad11af04c0f" name="Changes" comment="Ajustes primarios">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pdv-erp-v2/backend/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pdv-erp-v2/backend/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pdv-erp-v2/backend/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pdv.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/arquitetura-Pdv-Erp.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdv-erp-v2/backend/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/pdv-erp-v2/backend/src/main/java/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdv-erp-v2/backend/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdv-erp-v2/backend/src/main/java/PdvApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/pdv-erp-v2/backend/src/main/java/pdv/PdvApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdv-erp-v2/backend/src/main/java/controller/ProdutoController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdv-erp-v2/backend/src/main/java/domain/Fornecedor.java" beforeDir="false" afterPath="$PROJECT_DIR$/pdv-erp-v2/backend/src/main/java/pdv/domain/Fornecedor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdv-erp-v2/backend/src/main/java/domain/ItemEntrada.java" beforeDir="false" afterPath="$PROJECT_DIR$/pdv-erp-v2/backend/src/main/java/pdv/domain/ItemEntrada.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdv-erp-v2/backend/src/main/java/domain/NotaEntrada.java" beforeDir="false" afterPath="$PROJECT_DIR$/pdv-erp-v2/backend/src/main/java/pdv/domain/NotaEntrada.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdv-erp-v2/backend/src/main/java/entity/Produto.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0051187242338218" />
+      <entry key="MS500" value="1.3482028701672588" />
+      <entry key="S2" value="1.7681713166137492" />
+      <entry key="S5" value="1.89987717168128" />
+      <entry key="S10" value="1.948618805934196" />
+      <entry key="S30" value="1.9972457979573677" />
+      <entry key="S60" value="2.247285486638415" />
+      <entry key="M2" value="3.1084473735169342" />
+      <entry key="M5" value="4.847835345625519" />
+      <entry key="M10" value="6.77238541560635" />
+      <entry key="M15" value="8.563181177160505" />
+      <entry key="M30" value="13.327837119661432" />
+      <entry key="H1" value="19.56789148166451" />
+      <entry key="H2" value="25.205595996487375" />
+      <entry key="H4" value="29.102982683680892" />
+      <entry key="D1" value="33.103006997606705" />
+      <entry key="W1" value="33.86970960383141" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="1.0879752317654501E-144" />
+      <entry key="S2" value="1.0356416457019194E-36" />
+      <entry key="S5" value="4.935746837796217E-15" />
+      <entry key="S10" value="1.0825803422955279E-7" />
+      <entry key="S30" value="0.011027391362008039" />
+      <entry key="S60" value="0.207480431900976" />
+      <entry key="M2" value="0.9083217333393361" />
+      <entry key="M5" value="2.2666329113244745" />
+      <entry key="M10" value="3.387757142856129" />
+      <entry key="M15" value="4.084372672936522" />
+      <entry key="M30" value="5.174744400878067" />
+      <entry key="H1" value="5.964368542060672" />
+      <entry key="H2" value="6.446333318311213" />
+      <entry key="H4" value="6.713471023344239" />
+      <entry key="D1" value="6.950831318835967" />
+      <entry key="W1" value="6.99294036491997" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.009927882098450311" />
+      <entry key="MS500" value="0.6920883247021947" />
+      <entry key="S2" value="1.5339503151609406" />
+      <entry key="S5" value="1.7986322982923142" />
+      <entry key="S10" value="1.8966458730991558" />
+      <entry key="S30" value="1.990410619729952" />
+      <entry key="S60" value="2.4437062767121063" />
+      <entry key="M2" value="4.007450207213469" />
+      <entry key="M5" value="7.107525255301003" />
+      <entry key="M10" value="10.154576436048986" />
+      <entry key="M15" value="12.642633364408763" />
+      <entry key="M30" value="18.49887765781226" />
+      <entry key="H1" value="25.5297861687653" />
+      <entry key="H2" value="31.65044790034026" />
+      <entry key="H4" value="35.81563358009243" />
+      <entry key="D1" value="40.05368850172306" />
+      <entry key="W1" value="40.86262821309757" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3FCBxcTn7HHqkN8g4esYXpgfYsV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven.pdv [org.springframework.boot:spring-boot-maven-plugin:3.4.1:run].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Spring Boot.PdvApplication (1).executor": "Run",
+    "Spring Boot.PdvApplication (2).executor": "Run",
+    "Spring Boot.PdvApplication.executor": "Run",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/cyt/IdeaProjects/Stealth_Garage_API",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.configurations.included.in.services": "true",
+    "settings.editor.selected.configurable": "settings.sync",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pdv-erp-v2/backend" />
+      <recent name="$PROJECT_DIR$/pdv-erp-v2/backend/src/main/java/pdv" />
+      <recent name="$PROJECT_DIR$/pdv-erp-v2/backend/src/main/resources" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/pdv-erp-v2/backend/src/main/java" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="KtorApplicationConfigurationType" />
+        <option value="MicronautRunConfigurationType" />
+        <option value="QuarkusRunConfigurationType" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="configurationStatuses">
+      <map>
+        <entry key="SpringBootApplicationConfigurationType">
+          <value>
+            <map>
+              <entry key="PdvApplication (1)" value="FAILED" />
+              <entry key="PdvApplication (2)" value="FAILED" />
+            </map>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.PdvApplication (2)">
+    <configuration name="PdvApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="pdv" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="pdv.PdvApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pdv.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PdvApplication (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="pdv" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="backend.src.main.java.pdv.PdvApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="backend.src.main.java.pdv.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PdvApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="pdv" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.seuempresa.pdverp.PdvApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PdvApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="pdv" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="pdv.PdvApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.PdvApplication (2)" />
+        <item itemvalue="Spring Boot.PdvApplication (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.25134.95" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.25134.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2007ccfa-47de-4d1e-9e82-3ad11af04c0f" name="Changes" comment="" />
+      <created>1781569419361</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1781569419361</updated>
+      <workItem from="1781569420656" duration="770000" />
+      <workItem from="1782167285227" duration="6758000" />
+      <workItem from="1782175886844" duration="702000" />
+      <workItem from="1782176615801" duration="11000" />
+      <workItem from="1782176737203" duration="1278000" />
+      <workItem from="1782178056543" duration="982000" />
+    </task>
+    <task id="LOCAL-00001" summary="Ajustes primarios">
+      <option name="closed" value="true" />
+      <created>1782170200822</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1782170200822</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Ajustes primarios" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ajustes primarios" />
+  </component>
+</project>
