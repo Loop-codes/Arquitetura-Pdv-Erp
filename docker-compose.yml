@@ -1,0 +1,30 @@
+services:
+  postgres:
+    image: postgres:16-alpine
+    container_name: pdvproject-postgres
+    environment:
+      POSTGRES_USER: ${KEY_POSTGRES_USER}
+      POSTGRES_PASSWORD: ${KEY_POSTGRES_PASSWORD}
+      POSTGRES_DB: ${KEY_POSTGRES_DB_NAME}
+      PGDATA: /var/lib/postgresql/data/pgdata
+    ports:
+      - '5432:5432'
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    networks:
+      - pdv-network
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${KEY_POSTGRES_USER} -d ${KEY_POSTGRES_DB_NAME}"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+volumes:
+  postgres_data:
+    driver: local
+
+networks:
+  pdv-network:
+    driver: bridge
+
+
